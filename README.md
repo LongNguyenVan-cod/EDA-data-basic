@@ -9,6 +9,7 @@
   Bộ dữ liệu bao gồm doanh thu theo tuần của từng cửa hàng Walmart <br />
   trong khoảng thời gian 5/2/2010 - 26/10/2012 tương đương khoảng 141 <br />
   <pre>• Holiday Flag: tuần không có ngày lễ(0), tuần có ngày lễ(1) <br />
+  </pre>
   • Economic Indicators: CPI, Fuel Price, Unemployment <br />
   • Weather Factors: Temperature
 ## EDA
