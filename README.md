@@ -15,4 +15,5 @@
   </pre>
 ## EDA
   Chỉ số Unemployment có tác động đáng kể tới Doanh thu hang tuần (Weekly Sales) <br />
-  [Screenshot 2025-05-29 222802](https://github.com/user-attachments/assets/70696c28-506d-4532-a27f-de5197f7e078)
+  
+![Screenshot 2025-05-29 222802](https://github.com/user-attachments/assets/e467e6ee-de21-4f8e-a38c-31ba0880db0b)
