@@ -1,7 +1,7 @@
 # EDA-data-basic
 ## Project Overview
-  Xử lý dữ liệu đầu vào bằng ngôn ngữ Python với thư viện Pandas
-  Xác định yếu tố tác động chính tới Doanh số hàng tuần (Weekly Sales)
+  Xử lý dữ liệu đầu vào bằng ngôn ngữ Python với thư viện Pandas__
+  Xác định yếu tố tác động chính tới Doanh số hàng tuần (Weekly Sales)__
 ## Code and Resources uesed
   Python Jupyter notebook
   Data: https://www.kaggle.com/datasets/mikhail1681/walmart-sales
